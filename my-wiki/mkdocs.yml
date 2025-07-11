@@ -4,3 +4,5 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
+plugins:
+  - webeditor
