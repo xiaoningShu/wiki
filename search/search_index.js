@@ -1,0 +1,1 @@
+var __index = {"config":{"lang":["en"],"separator":"[\\s\\u200b\\u3000\\-\u3001\u3002\uff0c\uff0e\uff1f\uff01\uff1b]+","pipeline":["stemmer"]},"docs":[{"location":"index.html","title":"Welcome to MkDocs","text":"<p>welcome to my wiki.</p>"},{"location":"about.html","title":"About","text":""},{"location":"about.html#hello","title":"Hello","text":""}]}
