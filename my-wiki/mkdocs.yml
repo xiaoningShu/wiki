@@ -1,8 +1,6 @@
 site_name: Wiki
-
 theme:
   name: 'material'
-
 nav:
-  - Home docs/index.md
-  - About docs/about.md
+  - Home: index.md
+  - About: about.md
