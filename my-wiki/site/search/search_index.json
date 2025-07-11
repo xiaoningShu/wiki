@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to MkDocs","text":"<p>welcome to my wiki.</p>"}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to MkDocs","text":"<p>welcome to my wiki.</p>"},{"location":"about/","title":"About","text":""},{"location":"about/#hello","title":"Hello","text":""}]}
